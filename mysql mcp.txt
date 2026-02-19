@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mysql-local": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-mysql",
+        "mysql://root:YOUR_PASSWORD@localhost:3306/YOUR_DATABASE"
+      ]
+    }
+  }
+}
