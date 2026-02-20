@@ -1,0 +1,11 @@
+complete the following tasks for your project
+
+build app
+1. stack & version
+2. reqs (decouple, microservice, modularize)
+3. ui / ux
+4. performance optimization
+5. quality assurance (test)
+6. security audit (vuln, outdated, cve)
+7. project size
+8. documentation
