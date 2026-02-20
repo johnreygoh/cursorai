@@ -1,0 +1,15 @@
+project specs:
+
+Company: Progium 
+
+
+1. ANY web tech stack
+2. mysql db
+3. landing page (login, register)
+4. user types=manager,member team=<team name>
+5. team managers can create team
+6. users can join teams (with approval from manager)
+7. drag&drop kanban board task management specific per teams
+8. team managers can manage tasks
+9. users can only move tasks between statuses
+10. provide a branding theme
