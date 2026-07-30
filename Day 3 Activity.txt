@@ -1,0 +1,20 @@
+Product Inventory Tracking System
+(Inventory)
+
+TechStack
+Backend: Python
+Frontend: ReactJS
+Database: SQLite
+
+Features
+1. Authentication: Login,Logout and Register New User
+2. CRUD operation for Products
+3. Product
+	prodID, prodName, quantity, unitprice, description, submitby, submittime
+4. search function
+5. delete confirmation
+
+others
+1. optimization plan and impl
+2. security audit plan and impl
+3. user guide pdf
